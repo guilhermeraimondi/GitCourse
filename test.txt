@@ -1,1 +1,9 @@
-Teste do Git
+TstT
+git clone https://github.com/guilhermeraimondi/GitCourse.git : clona oq ta no git pro repositorio local
+git tag "v1.0": cria uma tag que eh um ponteiro pra sua commit(no)
+git checkout -- text.txt : desfaz antes de commitar
+git reset: descommita
+git reset --hard "v1.0": descommita e desfaz
+git branch : mostra qual branch esta
+git checkout -b newBranch : cria um novo branch
+OBS.: antes de criar no novo branch tem que dar commit
