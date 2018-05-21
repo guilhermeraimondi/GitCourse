@@ -6,4 +6,4 @@ git reset: descommita
 git reset --hard "v1.0": descommita e desfaz
 git branch : mostra qual branch esta
 git checkout -b newBranch : cria um novo branch
-OBS.: depois de criar no novo branch tem que dar commit
+OBS.: antes de criar no novo branch tem que dar commit
