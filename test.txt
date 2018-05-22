@@ -9,3 +9,4 @@ git checkout -b newBranch : cria um novo branch
 OBS.: antes de criar no novo branch tem que dar commit
 git pull origin teste ou master
 git diff master branchTeste
+
