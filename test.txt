@@ -7,3 +7,5 @@ git reset --hard "v1.0": descommita e desfaz
 git branch : mostra qual branch esta
 git checkout -b newBranch : cria um novo branch
 OBS.: antes de criar no novo branch tem que dar commit
+git pull origin teste ou master
+git diff master branchTeste
